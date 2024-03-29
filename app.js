@@ -29,7 +29,7 @@ let lastName = "Baggins";
 ("11eleven");
 ("12");
 ("Frodo11");
-("trueeleven");
+("true11");
 ("FrodoBaggins");
 console.log(num + str);
 console.log(num + str2);
